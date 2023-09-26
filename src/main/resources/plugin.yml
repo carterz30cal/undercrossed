@@ -1,0 +1,6 @@
+name: Undercrossed
+version: '${project.version}'
+main: com.carterz30cal.undercrossed.Undercrossed
+api-version: '1.20'
+prefix: U-CROSSED
+authors: [carterz30cal]
